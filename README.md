@@ -6,7 +6,9 @@ Welcome to the official repository for our hackathon submission at **Ignite With
 
 ## 📌 Project Overview
 - **Event**: Ignite With Bangalore Hackathon
-- **Author**: [Jagdeep Kumar Mahto](https://github.com/jagdeep222422) (`@jagdeep222422`)
+- **Team Members**:
+  - [Jagdeep Kumar Mahto](https://github.com/jagdeep222422) (`@jagdeep222422`)
+  - [Pavan Gowda S](https://github.com/Pavan-Gowda-S) (`@Pavan-Gowda-S`)
 - **Status**: 🛠️ In Active Development
 
 ---
